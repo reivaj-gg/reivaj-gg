@@ -86,7 +86,7 @@ The win: Users see measurable improvements while understanding *why* their brain
 - Material 3 design system
 
 **Achievement:**
-- 🏆 Kotlin Student Coding Competition 2026
+- 🏆 2026 Kotlin Multiplatform Contest
 - ⭐ 8 GitHub stars
 
 </td>
